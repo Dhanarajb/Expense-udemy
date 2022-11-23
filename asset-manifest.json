@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expense-udemy/static/css/main.c26831ac.css",
+    "main.js": "/Expense-udemy/static/js/main.bed49038.js",
+    "static/js/787.7633472a.chunk.js": "/Expense-udemy/static/js/787.7633472a.chunk.js",
+    "index.html": "/Expense-udemy/index.html",
+    "main.c26831ac.css.map": "/Expense-udemy/static/css/main.c26831ac.css.map",
+    "main.bed49038.js.map": "/Expense-udemy/static/js/main.bed49038.js.map",
+    "787.7633472a.chunk.js.map": "/Expense-udemy/static/js/787.7633472a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26831ac.css",
+    "static/js/main.bed49038.js"
+  ]
+}
